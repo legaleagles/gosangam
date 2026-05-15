@@ -1,0 +1,88 @@
+═══════════════════════════════════════════════════════════════
+  SANGAM ELECTRICALS — PHOTO UPLOAD GUIDE
+═══════════════════════════════════════════════════════════════
+
+📂 Upload your photos to these 6 folders. Name them 1.jpg, 2.jpg etc.
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/luxury/                                              ║
+║  ────────────────                                             ║
+║  → Bulgari boutique fit-out photos                            ║
+║  → Premium jewellery showrooms                                ║
+║  → High-end retail with luxury finishes                       ║
+║                                                                ║
+║  Example files: 1.jpg, 2.jpg, 3.jpg                           ║
+╚═══════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/watches/                                             ║
+║  ─────────────────                                            ║
+║  → Tissot showcase photos                                     ║
+║  → Seiko / Ethos watch boutique work                          ║
+║  → Display lighting, illuminated showcases                    ║
+║                                                                ║
+║  Example files: 1.jpg, 2.jpg, 3.jpg                           ║
+╚═══════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/beauty/                                              ║
+║  ────────────────                                             ║
+║  → Nykaa store fit-out photos                                 ║
+║  → Beauty / cosmetics retail                                  ║
+║  → Track lighting, brand walls, fire-exit signage             ║
+║                                                                ║
+║  Example files: 1.jpg, 2.jpg                                  ║
+╚═══════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/fnb/                                                 ║
+║  ─────────────                                                ║
+║  → Subway outlet photos                                       ║
+║  → Quick-service restaurants (QSR)                            ║
+║  → F&B kitchen + dining area electrical work                  ║
+║                                                                ║
+║  Example files: 1.jpg, 2.jpg                                  ║
+╚═══════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/fashion/                                             ║
+║  ─────────────────                                            ║
+║  → Fossil showroom photos                                     ║
+║  → Apparel / accessory retail                                 ║
+║  → Branded ceiling work, accent lighting                      ║
+║                                                                ║
+║  Example files: 1.jpg                                         ║
+╚═══════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════╗
+║  /images/mattress/                                            ║
+║  ──────────────────                                           ║
+║  → The Sleep Company showroom photos                          ║
+║  → Mattress / D2C bedroom retail                              ║
+║  → Storefront signage, interior lighting                      ║
+║                                                                ║
+║  Example files: 1.jpg                                         ║
+╚═══════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════
+  📌 RULES
+═══════════════════════════════════════════════════════════════
+
+✓ Name photos in order: 1.jpg, 2.jpg, 3.jpg ...
+✓ NO GAPS — if you skip 3 and have only 1, 2, 4 — it stops at 2
+✓ Up to 10 photos per folder
+✓ Formats allowed: .jpg .jpeg .png .webp
+✓ Recommended size: 1200 × 800 pixels
+✓ Keep file size under 500 KB each (use tinypng.com to compress)
+
+═══════════════════════════════════════════════════════════════
+  ⚡ WHAT HAPPENS AUTOMATICALLY
+═══════════════════════════════════════════════════════════════
+
+→ 1 photo  = single image with circuit overlay
+→ 2+ photos = slideshow auto-cycles every 4 seconds
+→ Empty folder = stylized circuit diagram (still looks intentional)
+
+No HTML edits ever needed. Just upload & refresh.
+
+═══════════════════════════════════════════════════════════════
